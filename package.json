@@ -1,0 +1,15 @@
+{
+  "name": "unfold-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public landing page foundation for Unfold.",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/dev-server.mjs dist"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "Actual Unfold PySide6 application, real Windows Qt platform (not offscreen)",
+  "data": "Fictional scratch demo data only",
+  "files": [
+    "unfold-thoughts.png",
+    "unfold-search.png",
+    "unfold-reflection.png"
+  ]
+}
